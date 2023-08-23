@@ -1,3 +1,7 @@
+""" An application to calculate course grades, 
+    semester GPA, and annual GPA for 
+    the first year of law studies at the University of Constantine 1.
+    by Student of Law Developer Sami Remili"""
 import  sys
 def main():
         print("# Welcome to faculty of law and political science #\n\n## Calculation App ##")
